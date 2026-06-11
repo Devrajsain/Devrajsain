@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Devraj Sain</h1>
-<h3 align="center">A passionate MERN stack developer.</h3>
+<h3 align="center">A passionate Full stack developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
